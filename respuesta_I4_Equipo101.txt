@@ -1,0 +1,11 @@
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+Azul
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+Azul
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+Blanco 
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+Quedó el favicon de Alfa
