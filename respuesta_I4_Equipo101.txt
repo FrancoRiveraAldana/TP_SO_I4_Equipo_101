@@ -1,0 +1,31 @@
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+Azul
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+Blanco 
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+Azul
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+Quedó el favicon de Alfa
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+ beta y gamma
+
+F- ¿Qué problemas surgieron?
+ No dejaba hacer push porque no estaban actualizados los repositorios locales 
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+ adoptada?
+- Ser conscientes de tener todo actualizado antes de tratar de subir más cosas
+- Guardar lo hecho aparte, hacer pull y ver cómo agregar lo nuevo que hayamos hecho
+- Forzar la subida pero si es de los mismos archivos que no se actualizaron puede quedar mal
+- Usar ramas separadas para trabajar
+
+H- ¿Qué sucede si cada uno utiliza el push-f?
+ Fuerza la subida de las actualizaciones y quedan las del último push 
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+ en DESARROLLO?
+Realizar un pull previo al add, commit, y push. No usar push -f
